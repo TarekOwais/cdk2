@@ -1,0 +1,2 @@
+,cid,cmpdname,canonicalsmiles,Molecule,Fingerprint,predicted,predicted_proba,min_energy,energy_gps
+222,10767573,"(2S,3R,4R,6R)-3-methoxy-N,N,2-trimethyl-16-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.12,6.07,28.08,13.015,19.020,27.021,26]nonacosa-8,10,12,14,19,21,23,25,27-nonaen-4-amine oxide",CC12C(C(CC(O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)[N+](C)(C)[O-])OC,<rdkit.Chem.rdchem.Mol object at 0x7f54fbbd6030>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f54fba2fdf0>,0,0.5245901639344263,-15.173,<-15
